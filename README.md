@@ -3,7 +3,7 @@
 
   
 1. JS Core
-   - https://www.youtube.com/watch?v=2XXaezT_G0Q&pp=ygUfcHJvbWlzZSBwb2x5ZmlsbCBpbXBsZW1lbnRhdGlvbtgGsAQ%3D
+   - Array.prototype.map() implementation.
   
 2. React
     #React Philosophy & Architecture
