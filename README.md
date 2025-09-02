@@ -6,7 +6,7 @@
    - Array.prototype.map() implementation.
   
 2. React
-    #React Philosophy & Architecture
+    - React Philosophy & Architecture
      - Virtual DOM
      - How Virtual DOM works under the hood
      - Reconciliation algorithm
